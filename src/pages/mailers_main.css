@@ -1,0 +1,22 @@
+.mailerslist {
+    display: flex;
+    justify-content: center;
+    padding: 10%;
+}
+
+.mailerslist__table {
+    outline: auto;
+    outline-color: black;
+    padding: 30px;
+    border-radius: 10%;
+}
+
+.mailerslist__button {
+    height: fit-content;
+    margin-right: 50px;
+    border-radius: 5px;
+    border-color: black;
+    background-color: white;
+    padding: 10px;
+    text-wrap: nowrap;
+}
